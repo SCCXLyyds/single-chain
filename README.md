@@ -1,9 +1,7 @@
 # single-chain
 Data structure and algorithm
 
-此题解转载自： 大海呀大海-https://www.acwing.com/user/myspace/index/37093/
-
-![Uploading image.png…]()
+需要详细题解，点击这： 大海呀大海-https://www.acwing.com/user/myspace/index/37093/
 
  题目（用数组实现单链表）：
     
