@@ -8,13 +8,13 @@ void add_head(int &x){
     head=idx;
     idx++;
 }
-void add(int k,int &x){
+void add(int &k,int &x){
     e[idx]=x;
     en[idx]=en[k];
     en[k]=idx;
     idx++;
 }
-void remove(int k){
+void remove(int &k){
     en[k]=en[en[k]];
 }
 int main()
