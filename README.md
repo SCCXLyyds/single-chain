@@ -31,6 +31,8 @@ new的底层涉及内存分配，调用构造函数，指针转换等多种复�
 
 上述解释出自Hasity：https://www.acwing.com/user/myspace/index/55289/
 
+本题的相关问题可参考我总结的：https://mp.csdn.net/mp_blog/creation/editor/new/128770930
+
 （转载）需要详细题解，点击这： 大海呀大海-https://www.acwing.com/file_system/file/content/whole/index/content/1088923/
 
 wuog :
