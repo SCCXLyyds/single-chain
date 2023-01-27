@@ -1,7 +1,7 @@
 # single-chain
 Data structure and algorithm
 
-需要详细题解，点击这： 大海呀大海-https://www.acwing.com/file_system/file/content/whole/index/content/1088923/
+（转载）需要详细题解，点击这： 大海呀大海-https://www.acwing.com/file_system/file/content/whole/index/content/1088923/
 
 wuog :
 https://www.acwing.com/file_system/file/content/whole/index/content/2572/
