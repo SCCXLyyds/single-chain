@@ -28,6 +28,7 @@ new的底层涉及内存分配，调用构造函数，指针转换等多种复�
 但是在算法比赛中，经常碰到操作在10w级别的链表操作，如果使用结构体这种操作，是无法在算法规定时间完成的。
 
 所以，在算法比赛这种有严格的时间要求的环境中，不能频繁使用new操作。也就不能使用结构体来实现数组
+上述解释出自Hasity：https://www.acwing.com/user/myspace/index/55289/
 
 （转载）需要详细题解，点击这： 大海呀大海-https://www.acwing.com/file_system/file/content/whole/index/content/1088923/
 
